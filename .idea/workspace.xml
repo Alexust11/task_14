@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae620c77-29fc-440d-a802-e62c363b6855" name="Changes" comment="" />
+    <list default="true" id="ae620c77-29fc-440d-a802-e62c363b6855" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/service/weatherServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training1/src/main/java/com/example/training1/controller/SocksController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training1/src/main/java/com/example/training1/model/Socks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training1/src/main/java/com/example/training1/repository/socksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training1/src/main/java/com/example/training1/service/socksService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkyPro-telegram-bot" beforeDir="false" afterPath="$PROJECT_DIR$/SkyPro-telegram-bot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkyPro-telegram-bot/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SkyPro-telegram-bot/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SkyPro-telegram-bot/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SkyPro-telegram-bot/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/controller/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/controller/WeatherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/model/WeatherMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/model/WeatherMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/model/WeatherWind.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/model/WeatherWind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/service/WeatherServiceProduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41/src/main/java/com/example/lesson4_4/service/WeatherServiceProduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4_41/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_41/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1" beforeDir="false" afterPath="$PROJECT_DIR$/task1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/out/production/Tasks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/task1/out/production/Tasks/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training1" beforeDir="false" afterPath="$PROJECT_DIR$/training1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/training1/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2KckMMqWvqlKJYkshBsCRS2sy3C" />
   <component name="ProjectViewState">
@@ -33,6 +60,8 @@
       <workItem from="1674281286000" duration="3000" />
       <workItem from="1674281291244" duration="1000" />
       <workItem from="1674281321535" duration="7000" />
+      <workItem from="1678598585145" duration="60000" />
+      <workItem from="1678598666175" duration="10000" />
     </task>
     <servers />
   </component>
